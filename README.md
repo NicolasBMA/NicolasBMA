@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor Full Stack Júnior**  
 🇧🇷 Brazil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição para a área de **Desenvolvimento de Software**, com foco em **aplicações web**, **back-end** e **boas práticas de código**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição para a área de **Desenvolvimento de Software**, com foco em **aplicações web**, **front-end**, **back-end** e **boas práticas de código**.
 
 Tenho experiência prática com **JavaScript, React, Node.js e Java**, além de interesse constante em **arquitetura, lógica de programação e evolução técnica contínua**.
 
