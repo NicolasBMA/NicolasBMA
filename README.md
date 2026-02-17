@@ -1,11 +1,11 @@
 # Hi 👋, I'm Nicolas Albernaz
 
-🚀 **Desenvolvedor Full Stack Júnior**  
+🚀 **Desenvolvedor Full Stack**  
 🇧🇷 Brazil
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição para a área de **Desenvolvimento de Software**, com foco em **aplicações web**, **front-end**, **back-end** e **boas práticas de código**.
 
-Tenho experiência prática com **JavaScript, React, Node.js e Java**, além de interesse constante em **arquitetura, lógica de programação e evolução técnica contínua**.
+Tenho experiência prática com **Java(Spring Boot), JavaScript, React, Node.js(Express) e Java**, além de interesse constante em **arquitetura, lógica de programação e evolução técnica contínua**.
 
 ---
 
@@ -28,7 +28,7 @@ Tenho experiência prática com **JavaScript, React, Node.js e Java**, além de 
 ## 🧠 O que eu faço
 
 - 💻 Desenvolvimento de aplicações web
-- ⚙️ APIs REST com Node.js e Express
+- ⚙️ APIs REST com Node.js/Express e Java/Spring Boot
 - 🧩 Lógica de programação e orientação a objetos
 - 🌐 Integração front-end e back-end
 - 🗄️ Modelagem e consumo de bancos de dados
@@ -80,5 +80,5 @@ Tenho experiência prática com **JavaScript, React, Node.js e Java**, além de 
 ---
 
 ⭐ Se curtir algum projeto, deixa uma star  
-🤝 Aberto a oportunidades como **Desenvolvedor Júnior ou Estagiário**
+🤝 Aberto a oportunidades como **Desenvolvedor**
 
